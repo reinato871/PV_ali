@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    width: 980px;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+.CABECALHO{
+    background-color: rgb(30, 150, 255);
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    margin: 5px;
+}
+.CONTEUDO{
+    background-color: rgb(57, 218, 35);
+    height: 250px;
+    padding: 50px;
+    color: #fff;
+    text-align: center;
+    margin: 5px;
+}
+.RODAPE{
+    background-color: rgb(255, 153, 0);
+    height: 100%;
+    text-align: center;
+    padding: 50px;
+}
