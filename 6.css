@@ -25,12 +25,12 @@ body{
 }
 .CONTEUDO1{
     background-color: rgb(57, 218, 35);
-    height: 465px;
+    height: 200px;
     padding: 50px;
     color: #fff;
     text-align: center;
     font-size: 10px;
-    width: 380px;
+    width: 750px;
     margin: 5px;
     
     }
@@ -42,7 +42,7 @@ body{
         text-align: center;
         font-size: 10px;
         margin: 5px;
-        width: 750px;
+        width: 400px;
         
         
         }
@@ -81,6 +81,31 @@ body{
                     
                     
                     }
+                    .CONTEUDO6{
+                        background-color: rgb(57, 218, 35);
+                        height: 250px;
+                        padding: 50px;
+                        color: #fff;
+                        text-align: center;
+                        font-size: 10px;
+                        margin: 5px;
+                        width: 240px;
+                        
+                        
+                        }
+                        .CONTEUDO7{
+                            background-color: rgb(57, 218, 35);
+                            height: 250px;
+                            padding: 50px;
+                            color: #fff;
+                            text-align: center;
+                            font-size: 10px;
+                            margin: 5px;
+                            width: 240px;
+                            
+                            
+                            }
+
                     
                     .d2{
                         display: flex;
